@@ -2,8 +2,10 @@ package project;
 
 public class DoubleLoopAssignment {
 
+	
 	public static void main(String[] args) {
 
+			System.out.println("I am the change !!");
 		for(int i=1;i<=5;i++)
 		{
 		for (int j=1;j<=(5-i);j++)
